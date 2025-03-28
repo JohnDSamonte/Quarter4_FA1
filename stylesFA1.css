@@ -1,0 +1,50 @@
+body {
+  background-color: #ADD8E6;
+  margin: 0; 
+  text-align: center;
+  border: 50px solid transparent;
+  border-image-source: url('dog.jpg'); 
+  border-image-slice: 30;
+}
+
+p {
+  position: relative;
+  font-family: Georgia, serif; 
+  color: #003366;
+  margin: 20px auto; 
+}
+
+#paragraphs {
+  text-align: justify;
+  text-justify: inter-word;
+  padding: 20px auto; 
+}
+
+h3, header {
+  margin: 10px auto;
+  font-family: Georgia, serif; 
+  color: #1E90FF;
+}
+
+
+
+
+Primary Blue: #1E90FF (Dodger Blue) – A bold, energetic blue to serve as the central color.
+
+Accent Colors:
+
+Light Blue: #ADD8E6 (Light Blue) – Soft and calming, great for backgrounds or subtle highlights.
+
+Navy Blue: #003366 (Navy Blue) – A deep, rich shade for contrast and depth.
+
+Complementary Colors:
+
+Soft Orange: #FFA07A (Light Salmon) – Adds warmth and balance to the cool tones of blue.
+
+Neutral Beige: #F5F5DC (Beige) – To neutralize and add sophistication.
+
+Highlight Color: #FFD700 (Golden Yellow) – A striking, eye-catching pop of warmth to break up the blues.
+
+Style: Thin solid borders (e.g., 2px–3px) or consider using decorative patterns for a more romantic feel.
+
+Rounded Corners: Slightly rounded corners (e.g., border-radius: 5px) soften the look and add to the elegance.
